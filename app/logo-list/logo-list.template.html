@@ -1,0 +1,17 @@
+<div class="container">
+  <div class="page-header">
+    <h1>Choose a brand audience:</h1>
+    <h1 class="text-hide">Custom heading</h1>
+  </div>
+      <div class="row">
+        <div class="col-xs-6 col-md-3 card-wrapper" ng-repeat="logo in $ctrl.logos | orderBy:$ctrl.orderProp" style="height: 150px;">
+          <a class="thumbnail card-hover">
+            <img class="img-fluid" ng-src="{{logo.social_media_pages.picture}}" alt="{{logo.name}}" style="height: 120px;
+            width: 120px;" >
+           <div class="id">
+              {{logo.source_items.id}}
+           </div>
+          </a>
+        </div>
+      </div>
+  </div>

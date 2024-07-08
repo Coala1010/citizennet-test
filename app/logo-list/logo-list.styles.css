@@ -1,0 +1,31 @@
+.card-wrapper .id {
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.card-hover {
+    height: -webkit-fill-available;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    text-align: center;
+}
+
+.card-wrapper:hover .id {
+    display: block;
+}
+
+.card-wrapper:hover .card-hover {
+    background: rgba(26, 24, 24, 0.5);
+}
+
+
+
+.card-wrapper:hover img {
+    filter: brightness(50%);
+}

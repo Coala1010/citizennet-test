@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Allure", "svg":"allure", 
+      "source_items": {
+        "audience_size": 2754370,
+        "id": "6003546862198",
+        "name": "Allure (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Media/News Company",
+        "id": "24810773606",
+        "name": "Allure",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1417512
+      }
+    },
+    {"name": "Architectural Digest", "svg":"ad",
+      "source_items": {
+        "audience_size": 7012660,
+        "id": "6003159508834",
+        "name": "Architectural Digest"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "43794751042",
+        "name": "Architectural Digest",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 4297326
+      }
+    }, 
+    {"name": "Ars Technica", "svg":"arstechnica",
+      "source_items": {
+        "audience_size": 400500,
+        "id": "6003183616966",
+        "name": "Ars Technica"
+      },
+      "social_media_pages": {
+        "category": "Media/News Company",
+        "id": "19374573752",
+        "name": "Ars Technica",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 368324
+      }
+    },
+    {"name": "Bon Appetit", "svg":"bonappetit",
+      "source_items": {
+        "audience_size": 9022350,
+        "id": "6003288054951",
+        "name": "Bon AppÃ©tit"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "37940325366",
+        "name": "Bon AppÃ©tit Magazine",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 2379968
+      }
+    },
+    {"name": "CondÃ© Nast Traveler", "svg":"cntraveler",
+      "source_items": {
+        "audience_size": 10129439,
+        "id": "6003070150915",
+        "name": "CondÃ© Nast Traveler"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "21317493981",
+        "name": "CondÃ© Nast Traveler",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1802730
+      }
+    },
+    {"name": "Epicurious", "svg":"epicurious",
+      "source_items": {
+        "audience_size": 1947080,
+        "id": "6004009784506",
+        "name": "Epicurious"
+      },
+      "social_media_pages": {
+        "category": "Food & Beverage Company",
+        "id": "12770210203",
+        "name": "Epicurious",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1198827
+      }
+    }, 
+    {"name": "Glamour", "svg":"glamour",
+      "source_items": {
+        "audience_size": 64807960,
+        "id": "6003326451509",
+        "name": "Glamour (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "26815555478",
+        "name": "Glamour",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 5604123
+      }
+    },
+    {"name": "GQ", "svg":"gq",
+      "source_items": {
+        "audience_size": 17374899,
+        "id": "6003023143356",
+        "name": "GQ"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "7962048097",
+        "name": "GQ",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 2779290
+      }
+    },
+    {"name": "The New Yorker", "svg":"newyorker",
+      "source_items": {
+        "audience_size": 17623240,
+        "id": "6003401313347",
+        "name": "The New Yorker"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "9258148868",
+        "name": "The New Yorker",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 4374251
+      }
+    },
+    {"name": "Pitchfork", "svg":"pitchfork",
+      "source_items": {
+        "audience_size": 659160,
+        "id": "6003329810777",
+        "name": "Pitchfork"
+      },
+      "social_media_pages": {
+        "category": "Media/News Company",
+        "id": "28015075999",
+        "name": "Pitchfork",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1411207
+      }
+    }, 
+    {"name": "Self", "svg":"self",
+      "source_items": {
+        "audience_size": 136242830,
+        "id": "6003512851365",
+        "name": "Self (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "8908243810",
+        "name": "SELF",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1710229
+      }
+    },
+    {"name": "Teen Vogue", "svg":"teenvogue",
+      "source_items": {
+        "audience_size": 4098860,
+        "id": "6003094903858",
+        "name": "Teen Vogue"
+      },
+      "social_media_pages": {
+        "category": "News & Media Website",
+        "id": "6636341311",
+        "name": "Teen Vogue",
+        "picture": "",
+        "popularity": 5709701
+      }
+    }, 
+    {"name": "Vanity Fair", "svg":"Vanity_Fair_Logo",
+      "source_items": {
+        "audience_size": 16813627,
+        "id": "6003070845715",
+        "name": "Vanity Fair (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "8810407571",
+        "name": "Vanity Fair",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 2973074
+      }
+    },
+    {"name": "Vogue", "svg":"VOGUE_LOGO",
+      "source_items": {
+        "audience_size": 77145652,
+        "id": "6003552041427",
+        "name": "Vogue (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "42933792278",
+        "name": "Vogue",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 9015092
+      }
+    }, 
+    {"name": "W", "svg":"w-magazine-vector-logo",
+      "source_items": {
+        "audience_size": 4931550,
+        "id": "6003196100855",
+        "name": "W (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Magazine",
+        "id": "40621875003",
+        "name": "W Magazine",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 1760689
+      }
+    },
+    {"name": "Wired", "svg":"Wired_logo",
+      "source_items": {
+        "audience_size": 12216460,
+        "id": "6003136001590",
+        "name": "Wired (magazine)"
+      },
+      "social_media_pages": {
+        "category": "Media/News Company",
+        "id": "19440638720",
+        "name": "WIRED",
+        "picture": "https://via.placeholder.com/120",
+        "popularity": 2985481
+      }
+    }]
